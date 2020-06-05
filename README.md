@@ -1,6 +1,8 @@
 # Space-School
 Bootstrap Project [Openclassrooms Activity]
 # Space School webpage
+
+![screenshot](./image/Screenshot.png)
  
 ## Built With
 
@@ -10,7 +12,7 @@ Bootstrap Project [Openclassrooms Activity]
 
 [LIVE DEMO LINK](https://haroonabdulrazaq.github.io/Space-School/)
 
-![screenshot](./image/Screenshot.png)
+
 
 # Getting Started 🚀
 
