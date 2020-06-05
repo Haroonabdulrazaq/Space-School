@@ -10,6 +10,8 @@ Bootstrap Project [Openclassrooms Activity]
 
 [LIVE DEMO LINK](https://haroonabdulrazaq.github.io/Space-School/)
 
+![screenshot](./image/Screenshot.png)
+
 # Getting Started 🚀
 
 These instructions will get you a copy of the project up and running on your local machine.
